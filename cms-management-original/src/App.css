@@ -775,7 +775,10 @@ input[type=submit]:hover {
  padding-top:7px;
  padding-bottom: 8.2px;
  z-index: 9;
+ bottom: 0;
 }
+
+
 .btn-content-preview{
   margin-left:0;
   width:120px;

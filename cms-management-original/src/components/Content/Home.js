@@ -6,7 +6,7 @@ import React, { Component } from "react";
 class Home extends Component {
   render() {
     return (
-        <div id="content">
+      <div>
         <div className = "row save-publish">
           <div className = "save-publish-bottom">
           <div className = "col-md-6"></div>
@@ -24,6 +24,8 @@ class Home extends Component {
           </div>
           </div>
         </div>
+
+        <div id="content">
 
         <div className="padding-header">
           <div className="choose-file-content">
@@ -237,7 +239,10 @@ class Home extends Component {
           </div>
         </div>
       </div>
-    );
+
+
+      </div>
+            );
   }
 }
 

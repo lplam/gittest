@@ -762,23 +762,20 @@ input[type=submit]:hover {
 .save-publish{
  background-color:white;
  position: fixed;
- margin-top: 85vh;
- width: 1009px;
- margin-left: 0px;
- margin-right: 0px;
+ width: 74%;
+ margin-left: 329px;
+ padding-left: 250px;
  border-top:0.5px solid rgb(221, 218, 218);
  border-left:0.5px solid rgb(221, 218, 218);
  border-right:0.5px solid rgb(221, 218, 218);
- padding-left: 35.2vh;
- max-width: 1009px;
+ 
+
  max-height: 50px;
  padding-top:7px;
  padding-bottom: 8.2px;
- z-index: 9;
  bottom: 0;
+ z-index: 9;
 }
-
-
 .btn-content-preview{
   margin-left:0;
   width:120px;
